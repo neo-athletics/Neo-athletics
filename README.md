@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @neo-athletics
+- 👋 Hi, I’m Juan Rodriguez
 - 👀 I’m interested in working out, coding, and self improvement
 - 🌱 I’m currently learning backend development using NodeJS, MongoDB, and express
 - 💞️ I’m looking to collaborate on lirabry I use on the daily basis like boostrap, react, ect.
